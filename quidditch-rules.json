@@ -1,0 +1,15 @@
+I'll need to have some rules to go with this project:
+
+Quidditch-rules
+
+What are the public notification considerations of this project? Write rules for this.
+What are the regulatory considerations? Need rules for this too.
+How will the project actions be documented? Write rules.
+Collect feedback. Define by rules.
+Develop updates per these rules.
+
+
+# The Golden Snitch Sniffer
+This is a project that uses multiple long-range ultrasonic sensors to find and track
+an object flying in three-dimensional space. It displays the object's coordinates,
+speed, and trajectory through a VR headset.
